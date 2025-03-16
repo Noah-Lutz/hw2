@@ -8,5 +8,4 @@ add_executable(Homework_1 main.cpp
         Twitter.h
         Profile.h
         Array.h
-        Array.cpp
-        Profile.cpp)
+)

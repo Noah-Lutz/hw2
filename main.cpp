@@ -1,5 +1,5 @@
 #include "Profile.h"
-#include "Twitter.h"
+#include "Twitter.cpp"
 
 #include <iostream>
 
